@@ -20,9 +20,3 @@ A simple audio player for android devices.
 * [Butter Knife](https://github.com/JakeWharton/butterknife)
 * [Audio Wife](https://github.com/jaydeepw/audio-wife)
 * [VusikView](https://github.com/dynamitechetan/VusikView/)
-<br>
-<br>
-## To Do:
-* Creat custom playlist.
-* Sort accodring to album & artist.
-* Search for audio file in the playlist.
